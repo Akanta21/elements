@@ -1,0 +1,44 @@
+.card-payment {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-form {
+  margin: 16px 0;
+}
+
+.form-group {
+  margin: 8px 0;
+}
+
+.row {
+  display: flex;
+  margin: 8px 0;
+}
+
+.col-6 {
+  box-sizing: border-box;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.btn {
+  margin-top: 16px;
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 0px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: rgba(0, 110, 255, 0.925);
+  color: white;
+}
